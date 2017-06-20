@@ -1,0 +1,15 @@
+current directory: /Users/satonae/techCamp/git/git-app/vender/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+/Users/satonae/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170619-96549-sch3sy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/satonae/techCamp/git/git-app/vender/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/satonae/techCamp/git/git-app/vender/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/satonae/techCamp/git/git-app/vender/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20170619-96549-15qtdbq/bindex
